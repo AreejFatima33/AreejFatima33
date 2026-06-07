@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Areej Fatima<br><br>📱 Flutter & Android Developer with 1+ year of production experience.<br>🚀 Built and shipped 3 live Play Store apps including a digital signature platform at Figover EU OÜ.<br>🤖 Integrated Gemini AI, ML Kit OCR, AdMob monetization, and WebSocket in production apps.<br>🏗️ Strong in MVVM, Clean Architecture, Firebase, and REST API integration.<br><br>💬 Ask me about Flutter, Kotlin, Firebase, Gemini AI, and Play Store publishing.
+👋 Hi, I'm Areej Fatima<br><br>
+📱 Flutter & Android Developer building mobile applications for real users.<br>
+🚀 Working with Flutter, Kotlin, Firebase, REST APIs, AI integrations, and modern mobile architectures.<br>
+🛠️ Interested in creating reliable, scalable, and user-focused mobile experiences.<br>
+📚 Continuously exploring new technologies, tools, and approaches in mobile development.<br>
+
+💬 Ask me about Flutter, Kotlin, Firebase, Gemini AI, and mobile app development.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areej-dev01/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23F0A500.svg?logo=vercel&logoColor=white)](https://areejdev-portfolio.vercel.app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:areejfatimag33@gmail.com)
